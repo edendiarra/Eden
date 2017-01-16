@@ -9,9 +9,5 @@ public class sorttest {
 			sort(nums,1);
 			sort(nums,2);
 	}
-	private static void sort(int[]nums,int orderby)
-	{
-
-	}
 
 }
