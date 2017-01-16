@@ -11,7 +11,7 @@ public class sorttest {
 	}
 	private static void sort(int[]nums,int orderby)
 	{
-		//이부분을 직접구현
+		//다시 코딩 sort() 이부분을 직접구현
 	}
 
 }
